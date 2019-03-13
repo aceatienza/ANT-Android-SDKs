@@ -1,3 +1,10 @@
+# March 2019
+
+Eclipse project ported over to Android Studio with:
+* minSdkVersion 26
+* androidx
+
+
 # Android ANT+ SDK v.P.B5 - 31 Aug 2015
 This software development kit provides the resources needed to develop an Android application which uses the defined ANT+ profiles to communicate wirelessly with the millions of existing ANT+ devices. It includes instructions, API and documentation, and reference sample applications. The PDF _Creating ANT+ Android Applications_ explains how to get started. 
 
